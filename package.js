@@ -1,8 +1,8 @@
 Package.describe({
   summary: 'Intranet 42 OAuth flow',
   version: '1.2.0',
-  name: 'chap:intra42-oauth',
-  git: 'https://github.com/marcchapeau/meteor-intra42-oauth'
+  name: 'nimon:intra42-oauth',
+  git: 'https://github.com/Nimon77/meteor-intra42-oauth'
 })
 
 Package.onUse(function (api) {
