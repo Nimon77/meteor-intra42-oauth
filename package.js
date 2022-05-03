@@ -6,7 +6,6 @@ Package.describe({
 })
 
 Package.onUse(function (api) {
-  api.versionsFrom('2.2')
   api.use('ecmascript')
   api.use('oauth2', ['client', 'server'])
   api.use('oauth', ['client', 'server'])
